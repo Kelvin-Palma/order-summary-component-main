@@ -25,7 +25,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://kelvin-palma.github.io/order-summary-component-main/]
 - Live Site URL: []
 
 ## My process
